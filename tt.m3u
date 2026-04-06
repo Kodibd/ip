@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TRT" radio="false",TRT1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/10660277.png" group-title="TRT" radio="false",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/7027954.png" group-title="TRT" radio="false",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
