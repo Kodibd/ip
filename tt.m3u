@@ -3,9 +3,9 @@
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w120/h120/q70/7027954.png" group-title="TRT" radio="false",TRT2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRTbelgesel.tr" tvg-name="" tvg-logo="" group-title="TRT" radio="false",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTbelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/23850_1-0-465-262.jpeg" group-title="TRT" radio="false",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor.png" group-title="Sports" radio="false",TRT SPOR
-https://kodibd.github.io/IP/tr/trt/trtspor.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT SPOR2" tvg-logo="https://kodibd.github.io/IP/tr/trt/trtspor2.png" group-title="Sports" radio="false",TRT SPOR2
-https://kodibd.github.io/IP/tr/trt/trtspor2.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
